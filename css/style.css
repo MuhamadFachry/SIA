@@ -1,0 +1,98 @@
+body {
+    background:#e5e5e5;
+    overflow-x: hidden
+}
+.navbar-front{
+	width: 900px;
+	margin: auto;
+}
+.container{
+	min-height:100%;
+    
+	padding-top: 30px;
+	margin-top: 30px;
+	background: #fff;
+	width: 900px;
+	padding-top: 80px;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	min-height: 300px;
+}
+.carousel{
+	width: 900px;
+	margin: 60px auto 0;
+	
+}
+#footer{
+   background:#f0f0f0;
+   
+   margin: auto;
+   width:900px;
+   text-align:center;
+   color:#000;
+}
+#wrapper{min-height:100%;position:relative;}
+.teks_info_produk{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.deskripsi-produk{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 16px;
+	
+}
+.harga{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #990000;
+    font-weight: bold;
+
+}
+.gambar-produk{
+	text-align: center;
+}
+.title-keranjang-belanja{
+	text-align: center;
+	font-size: 25px;
+	text-shadow: 2px;
+	margin-bottom: 20px;
+	
+}
+.total-harga{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #990000;
+    font-weight: bold;
+
+}
+.nama-memo{
+	color: #1143a6;
+    font-weight: bold;
+}
+.grand-total{
+	color: #990000;
+    font-weight: bold;
+}
+.bukti-title{
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+}
+.data-pembelian-detail{
+	font-weight: bold;
+	font-size: 15px;
+}
+.info-detail-barang{
+	font-weight: bold;
+	font-size: 16px;
+}
+.teks-konfirmasi{
+	text-align: center;
+}
+.form_konfirmasi{
+	padding-left: 50px;
+}
